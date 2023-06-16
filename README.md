@@ -1,5 +1,7 @@
 # numeral-elm
 
+**Fork of ggb/numeral-elm at 1.5.0 with fixes by soad003 since the original package seems to be unmaintained. Original README continues from here.**
+
 Elm module for (advanced) number formatting. It is a direct port of [Numeral.js](http://numeraljs.com/) and it is possible to use the same format strings. Manipulation and unformatting of numbers is not yet supported.
 
 If you create a new language-file, please let me know or send a pull request.
